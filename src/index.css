@@ -17,7 +17,7 @@ code {
 h1{
   display: flex;
   justify-content: center;
-  color: red;
+  color: green;
 }
 label{
   color: red;
